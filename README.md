@@ -1,6 +1,9 @@
 # Project1_Simon_Says_Self
 
+
 Project Title: Simon_Says_Self
+
+url: https://ssang8801.github.io/Project1_Simon_Says_Self/
 
 Date: 3/22/2022
 
